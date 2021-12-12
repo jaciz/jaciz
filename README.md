@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaciz
 - 👀 I’m interested in geospatial data science, remote sensing, ecology
-- 🌱 I’m currently learning data science and machine learning
+- 🌱 I’m currently learning and improving my knowledge in data science, statistics, and machine learning
 
 <!---
 jaciz/jaciz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
