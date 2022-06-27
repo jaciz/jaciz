@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaciz
-- 👀 I’m interested in geospatial data science, remote sensing, ecology
+- 👀 I’m interested in data analysis, time series data, and geospatial data
 - 🌱 I’m currently learning data science, statistics, and machine learning
 
 <!---
